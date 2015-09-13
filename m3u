@@ -3,6 +3,15 @@
 #EXTINF:-1,beIN SPORT 1 HD 
 http://180.250.29.12/jhos/beib3_5/1441037920/playlist.m3u8
 
+#EXTINF:-1 group-title=” 20.45 ita INTER – MILAN “,digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+#EXTINF:-1 group-title=” 20.45 ita INTER – MILAN “,arena sport 4 sr
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130753
+#EXTINF:-1 group-title=” 20.45 ita INTER – MILAN “,btv action bg
+http://telemost-bg.com/include/channelStream.php?channel=71
+#EXTINF:-1 group-title=” 20.45 ita INTER – MILAN “,ntv+futbol 1 ru
+http://j.mp/T_NTVPLUSFOOTBALL1_sly
+
 #EXTINF:-1, ABC
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1, ABC News
