@@ -1,5 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1,beinHD Sports HD1
+http://free.iptv.re:80/live/server/star7/1.ts
+#EXTINF:-1,beinHD Sports HD2
+http://free.iptv.re:80/live/server/star7/2.ts
+#EXTINF:-1,beinHD Sports HD3
+http://free.iptv.re:80/live/server/star7/3.ts
+#EXTINF:-1,beinHD Sports HD4
+http://free.iptv.re:80/live/server/star7/4.ts
+#EXTINF:-1,beinHD Sports HD5
+http://free.iptv.re:80/live/server/star7/5.ts
+#EXTINF:-1,beinHD Sports HD6
+http://free.iptv.re:80/live/server/star7/6.ts
+#EXTINF:-1,beinHD Sports HD7
+http://free.iptv.re:80/live/server/star7/7.ts
+#EXTINF:-1,beinHD Sports HD8
+http://free.iptv.re:80/live/server/star7/8.ts
+#EXTINF:-1,beinHD Sports HD9
+http://free.iptv.re:80/live/server/star7/9.ts
+#EXTINF:-1,beinHD Sports HD10
+http://free.iptv.re:80/live/server/star7/10.ts
+
 #EXTINF:-1,beIN SPORT 1 HD 
 http://180.250.29.12/jhos/beib3_5/1441037920/playlist.m3u8
 
